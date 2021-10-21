@@ -1,0 +1,7 @@
+{
+  "private": "true",
+  "scripts": {},
+  "devDependencies": {
+    "sass": "^1.43.3"
+  }
+}
